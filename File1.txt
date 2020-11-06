@@ -1,7 +1,11 @@
 Hello World
 
-Change 1 - for Login
 
-change 2 - for fixing bug 1
+Change 1: - for Login
 
-change 3 - by team mate on master for his WI4
+change 2: - for fixing bug 1
+
+change 3: - by team mate on master for his WI4
+
+change 4: for fixing commit 2
+
