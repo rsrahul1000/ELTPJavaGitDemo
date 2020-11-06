@@ -1,16 +1,18 @@
 Hello World
 
 
-Change 1: - for Login Feature, for enhancement.
+Change 1: - For Login Feature, for enhancement.
 
-change 2 :- for fixing bug 1.
+change 2 :- For fixing bug 1.
 
-change 3 :- by team mate on master for his WI4.
+change 3 :- By team mate on master for his WI4.
 
-change 4 :- for fixing commit 2.
+change 4 :- For fixing commit 2.
 
-change 5 :- enchanement.
+change 5 :- Enchanement.
 
 Change 6 :- Corrected Enhancement.
 
 Change 7 :- Push to origin master from local master
+
+Change 8 :- By Team mate on remote master to rest rebase
