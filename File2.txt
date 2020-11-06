@@ -1,0 +1,1 @@
+check that half done work can be stored in stash

@@ -1,15 +1,15 @@
 Hello World
 
 
-Change 1: - for Login Feature, for enhancement
+Change 1: - for Login Feature, for enhancement.
 
-change 2 :- for fixing bug 1
+change 2 :- for fixing bug 1.
 
-change 3 :- by team mate on master for his WI4
+change 3 :- by team mate on master for his WI4.
 
-change 4 :- for fixing commit 2
+change 4 :- for fixing commit 2.
 
-change 5 :- enchanement
+change 5 :- enchanement.
 
-Change 6 :- Corrected Enhancement
+Change 6 :- Corrected Enhancement.
 
